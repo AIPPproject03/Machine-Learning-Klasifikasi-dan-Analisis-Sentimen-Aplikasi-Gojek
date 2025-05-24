@@ -1,6 +1,6 @@
 # Gojek App Review Sentiment Analysis
 
-![Gojek Logo](https://static-00.iconduck.com/assets.00/gojek-icon-2048x2048-6656tmva.png)
+<img src="https://static-00.iconduck.com/assets.00/gojek-icon-2048x2048-6656tmva.png" alt="Gojek Logo" width="50" height="50">
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gojeksentimentanalyze.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
